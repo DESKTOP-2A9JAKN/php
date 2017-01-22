@@ -13,6 +13,10 @@ switch($oplata){
     echo "Ви вибрали способ оплати через почту...";
     break;
 
+    case "Nalichka":
+        echo "Ви вибрали способ оплати через почту...";
+        break;
+
     default:
     echo "Ви нічого не вибрали";
     break;
